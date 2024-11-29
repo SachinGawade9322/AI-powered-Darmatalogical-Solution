@@ -1,0 +1,22 @@
+README.md
+setup.py
+src/Skin Diseases Detection Project/__init__.py
+src/Skin Diseases Detection Project/components/__init__.py
+src/Skin Diseases Detection Project/config/__init__.py
+src/Skin Diseases Detection Project/config/configuration.py
+src/Skin Diseases Detection Project/constants/__init__.py
+src/Skin Diseases Detection Project/entity/__init__.py
+src/Skin Diseases Detection Project/pipeline/__init__.py
+src/Skin Diseases Detection Project/utils/__init__.py
+src/SkinDiseasesDetection/__init__.py
+src/SkinDiseasesDetection/components/__init__.py
+src/SkinDiseasesDetection/config/__init__.py
+src/SkinDiseasesDetection/config/configuration.py
+src/SkinDiseasesDetection/constants/__init__.py
+src/SkinDiseasesDetection/entity/__init__.py
+src/SkinDiseasesDetection/pipeline/__init__.py
+src/SkinDiseasesDetection/utils/__init__.py
+src/Skin_Diseases_Detection_Project.egg-info/PKG-INFO
+src/Skin_Diseases_Detection_Project.egg-info/SOURCES.txt
+src/Skin_Diseases_Detection_Project.egg-info/dependency_links.txt
+src/Skin_Diseases_Detection_Project.egg-info/top_level.txt
